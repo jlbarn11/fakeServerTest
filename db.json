@@ -1,12 +1,12 @@
 {
     "cupcakes": [
         {
-            "name": "Bubble Gum Pop",
+            "name": "<h3>Bubble Gum Pop</h3>",
             "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/bubbleGumPopCupcake.png",
             "alt": "Pink cupcake covered in sprinkles and topped with a sugar orb",
-            "ingredients": "Flour, Salt, Baking Powder, Butter, extra-fine Sugar, Eggs, Milk, Vanilla Extract, food-coloring, artificial flavoring",
-            "frosting": "Buttercream",
-            "frostingIngredients": "Shortening, Butter, Vanilla, Heavy cream, Powdered sugar, assorted sprinkles, artificial flavoring (orb is made from corn syrup and sugar)",
+            "ingredients": "<p>Flour, Salt, Baking Powder, Butter, extra-fine Sugar, Eggs, Milk, Vanilla Extract, food-coloring, artificial flavoring</p>",
+            "frosting": "<strong class='bold'>Buttercream</strong>",
+            "frostingIngredients": "<p>Shortening, Butter, Vanilla, Heavy cream, Powdered sugar, assorted sprinkles, artificial flavoring (orb is made from corn syrup and sugar)</p>",
             "price": "$5.00 each or $56.00 per dozen"
         },
         {
